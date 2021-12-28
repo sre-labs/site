@@ -3,4 +3,4 @@ Site of SRE Labs.
 
 # Test
 
-test connection from JIRA cloud.
+2 test connection from JIRA cloud.
